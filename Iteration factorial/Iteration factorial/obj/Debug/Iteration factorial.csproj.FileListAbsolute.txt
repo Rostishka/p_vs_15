@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2017\Projects\Iteration factorial\Iteration factorial\obj\Debug\Iteration factorial.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2017\Projects\Iteration factorial\Iteration factorial\bin\Debug\Iteration factorial.exe.config
+c:\users\1\documents\visual studio 2017\Projects\Iteration factorial\Iteration factorial\bin\Debug\Iteration factorial.exe
+c:\users\1\documents\visual studio 2017\Projects\Iteration factorial\Iteration factorial\bin\Debug\Iteration factorial.pdb
+c:\users\1\documents\visual studio 2017\Projects\Iteration factorial\Iteration factorial\obj\Debug\Iteration factorial.exe
+c:\users\1\documents\visual studio 2017\Projects\Iteration factorial\Iteration factorial\obj\Debug\Iteration factorial.pdb

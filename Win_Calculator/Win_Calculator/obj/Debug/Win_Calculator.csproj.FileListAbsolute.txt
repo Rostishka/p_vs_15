@@ -1,0 +1,9 @@
+c:\users\1\documents\visual studio 2017\Projects\Win_Calculator\Win_Calculator\bin\Debug\Win_Calculator.exe.config
+c:\users\1\documents\visual studio 2017\Projects\Win_Calculator\Win_Calculator\bin\Debug\Win_Calculator.exe
+c:\users\1\documents\visual studio 2017\Projects\Win_Calculator\Win_Calculator\bin\Debug\Win_Calculator.pdb
+c:\users\1\documents\visual studio 2017\Projects\Win_Calculator\Win_Calculator\obj\Debug\Win_Calculator.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2017\Projects\Win_Calculator\Win_Calculator\obj\Debug\Win_Calculator.Calculator.resources
+c:\users\1\documents\visual studio 2017\Projects\Win_Calculator\Win_Calculator\obj\Debug\Win_Calculator.Properties.Resources.resources
+c:\users\1\documents\visual studio 2017\Projects\Win_Calculator\Win_Calculator\obj\Debug\Win_Calculator.csproj.GenerateResource.Cache
+c:\users\1\documents\visual studio 2017\Projects\Win_Calculator\Win_Calculator\obj\Debug\Win_Calculator.exe
+c:\users\1\documents\visual studio 2017\Projects\Win_Calculator\Win_Calculator\obj\Debug\Win_Calculator.pdb
